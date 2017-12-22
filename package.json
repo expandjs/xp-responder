@@ -1,7 +1,7 @@
 {
   "name": "xp-responder",
   "description": "A server side class used to provide standard http responses",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "license": "BSD-3-Clause",
   "homepage": "https://expandjs.com/classes/xp-responder",
   "author": "ExpandJS <dev@expandjs.com> (https://expandjs.com)",
